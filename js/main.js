@@ -34,3 +34,16 @@
 //    },
 // ];
 // console.log(array.length);
+
+//* Arrayga yangi ma'lumot qo'shish
+// const arr = [1, 2, 3, 4];
+// arr[4] = "Hello";
+// console.log(arr);
+
+// let users = [];
+
+// users[users.length] = "Ibrohim";
+// users[users.length] = "Islom";
+// users[users.length] = "Abbos";
+
+// console.log(users);
